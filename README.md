@@ -1,2 +1,2 @@
-! (https://github.com/{Ne1heLe}/{e1heLe.github.io}/raw/{master}/{path}/image.png)
+! (https://github.com/{Ne1heLe}/{Ne1heLe.github.io}/raw/{master}/{https://github.com/Ne1heLe/Ne1heLe.github.io/raw/master}/IMG_20200509_121713~3 2.jpg)
 
