@@ -1,6 +1,11 @@
-  type="text/css">
-	p.small {line-height:80%;}
-	p.big {line-height:200%;}	
-	p.normal {font-style:normal;}
-	p.italic {font-style:italic; line-height:80%;}
-	p.oblique {font-style:oblique;}
+type="text/css">
+head
+	{ 
+		background-color: #ffffff;
+		background-image: url (clouds.jpg);
+	}
+p.small {line-height:80%;}
+p.big {line-height:200%;}	
+p.normal {font-style:normal;}
+p.italic {font-style:italic; line-height:80%;}
+p.oblique {font-style:oblique;}
