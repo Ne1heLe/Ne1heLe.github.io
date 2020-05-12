@@ -1,8 +1,9 @@
 type="text/css">
-head
+html
 	{ 
 		background-color: #ffffff;
 		background-image: url (clouds.jpg);
+		background-image: url (IMG_20190427_191103.jpg);
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
