@@ -2,8 +2,6 @@ type="text/css">
 html
 	{ 
 		background-color: #ffffff;
-		background-image: url (https://github.com/Ne1heLe/Ne1heLe.github.io/raw/master/In_another_life.jpg);
-
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
@@ -11,7 +9,7 @@ p.normal {font-style:normal;}
 p.italic {font-style:italic; line-height:80%;}
 p.oblique {font-style:oblique;}
 
-img
+.img
     {
-	    align: center;
+    text-align: center;    
     }
