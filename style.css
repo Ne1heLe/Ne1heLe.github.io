@@ -1,22 +1,25 @@
 type="text/css">
 html
 	{ 
-		background-color: #BBA2C8;
+	background-color: #000000;
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
 p.normal {font-style:normal;}
 p.italic {font-style:italic; line-height:80%;}
 p.oblique {font-style:oblique;}
-.autograf
-    {
-	    font-style: italic;
-	    text-align: right;
-    }
-.img
-    {
+.autograf{
+	font-style: italic;
+	 text-align: right;
+  }
+.img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;  
-    }
+  }
+.images{
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+ }
