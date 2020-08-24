@@ -6,9 +6,9 @@ html
 	margin-top: 40px;
 	}
 h1	{
-	font: Arial;
+	font: 2em Arial;
 	color: #000000;
-	text-shadow: #FFFFFF;
+	border-color: #FFFFFF;
 	text-align: center;
 	}
 p.small {line-height:80%;}
