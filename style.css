@@ -5,6 +5,9 @@ html
 	background-color: #000000;
 	margin-top: 40px;
 	}
+h1	{
+	text-shadow: #FFFFFF;
+	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
 p.normal {font-style:normal;}
