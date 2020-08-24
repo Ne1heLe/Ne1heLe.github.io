@@ -6,7 +6,10 @@ html
 	margin-top: 40px;
 	}
 h1	{
+	font: Arial;
+	color: #000000;
 	text-shadow: #FFFFFF;
+	text-align: center;
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
@@ -15,7 +18,7 @@ p.italic {font-style:italic; line-height:80%;}
 p.oblique {font-style:oblique;}
 .autograf{
 	font-style: italic;
-	 text-align: right;
+	text-align: right;
   }
 .img{
     display: block;
