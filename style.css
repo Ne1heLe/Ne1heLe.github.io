@@ -26,6 +26,7 @@ p.oblique {font-style:oblique;}
   max-width: 1000px;
   position: relative;
   margin: auto;
+  float: left;
  }
 
 /* Next & previous buttons */
