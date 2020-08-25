@@ -3,13 +3,14 @@ type="text/css">
 html
 	{ 
 	background-color: #000000;
-	margin-top: 40px;
+	margin-top: 10px;
 	}
 h1	{
-	font: 3em Arial;
+	font: 30px Arial;
 	color: #000000;
-	-webkit-text-stroke: 2px white;
+	-webkit-text-stroke: 0.2em white;
 	text-align: center;
+	margin-bottom: 30px;
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
