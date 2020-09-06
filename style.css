@@ -8,8 +8,9 @@ html
 h1	{
 	font: 80px Cambria;
 	color: none;
-	-webkit-text-stroke: 0.002em white;
+	-webkit-text-stroke: 0.01em white;
 	font-style:italic;
+	font-weight: bold;
 	text-align: center;
 	margin-bottom: 30px;
 	}
