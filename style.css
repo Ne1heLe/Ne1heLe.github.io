@@ -8,8 +8,9 @@ html
 h1	{
 	font: 50px SimSun;
 	color: none;
-	-webkit-text-stroke: 0.009em white;
+	-webkit-text-stroke: 0.15em white;
 	text-align: center;
+	font-weight: bold;
 	margin-bottom: 30px;
 	}
 p.small {line-height:80%;}
