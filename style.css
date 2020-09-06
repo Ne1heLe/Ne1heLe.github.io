@@ -6,9 +6,9 @@ html
 	margin-top: 10px;
 	}
 h1	{
-	font: 50px SimSun;
+	font: 56px SimSun;
 	color: none;
-	-webkit-text-stroke: 0.05em white;
+	-webkit-text-stroke: 0.005em white;
 	text-align: center;
 	font-weight: bold;
 	margin-bottom: 30px;
