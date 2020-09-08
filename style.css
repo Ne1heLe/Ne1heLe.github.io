@@ -6,12 +6,12 @@ html
 	margin-top: 5px;
 	}
 h1	{
-	font: 67px Segoe Print;
+	font: 67px SumSin;
 	color: none;
 	-webkit-text-stroke: 0.005em white;
 	text-align: center;
-	font-weight: 900;
-	margin-bottom: 30px;
+	font-weight: 800;
+	margin-bottom: 40px;
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
