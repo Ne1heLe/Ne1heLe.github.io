@@ -6,9 +6,9 @@ html
 	margin-top: 5px;
 	}
 h1	{
-	font: 70px SumSin;
+	font: 70px SinSum;
 	color: none;
-	-webkit-text-stroke: 0.05em white;
+	-webkit-text-stroke: 0.009em white;
 	text-align: center;
 	
 	margin-bottom: 40px;
