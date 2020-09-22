@@ -1,6 +1,5 @@
 "use strict";
 let slideIndex = 1;
-// n = 
 showSlides(slideIndex);
 
 // Next/previous controls
@@ -21,5 +20,7 @@ function showSlides(n) {
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none"; 
   }
+if (prev.onclick) plusSlides(-1);
+if (next.onclick) plusSlides(1);
   slides[slideIndex-1].style.display = "block";
 }
