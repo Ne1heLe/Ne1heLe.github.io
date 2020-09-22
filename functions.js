@@ -1,5 +1,6 @@
 "use strict";
-var slideIndex = 1;
+let slideIndex = 1;
+// n = 
 showSlides(slideIndex);
 
 // Next/previous controls
