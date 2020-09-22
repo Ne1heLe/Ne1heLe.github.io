@@ -10,11 +10,33 @@
 	</head> 
 	<body> 
                   <script type="application/javascript" src="https://github.com/Ne1heLe/Ne1heLe.github.io/raw/master/functions.js"></script>
-		<!--<script> //for me
-			'use strict';
-			let pass = prompt("Put The password");
-			(pass === "The password")? alert("Excellent!") : alert("No, it's not The password");
-			</script> -->
+		<script> "use strict";
+let slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("img");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none"; 
+  }
+//if (prev.onclick) plusSlides(-1);
+//if (next.onclick) plusSlides(1);
+  slides[slideIndex-1].style.display = "block";
+}
+			</script> 
 		
 	
 		<img src="https://github.com/Ne1heLe/Ne1heLe.github.io/raw/photos/SunRIse.gif" class="img"/>	
