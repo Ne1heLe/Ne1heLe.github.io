@@ -37,7 +37,7 @@ p.oblique {font-style:oblique;}
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 25%;
+  top: 45%;
   width: auto;
   margin-top: -30px;
   padding: 16px;
