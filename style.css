@@ -50,11 +50,7 @@ p.oblique {font-style:oblique;}
 
 /* Position the "next button" to the right */
 .next {
-  right: 20;
-  border-radius: 5px 0 0 5px;
-}
-.prev {
-  left: 20;
+  right: -20;
   border-radius: 5px 0 0 5px;
 }
 
