@@ -1,8 +1,8 @@
 type="text/css">
 {box-sizing:border-box}
 html
-	{
-    	background: #c7b39b url(Ne1heLe.github.io/IMG_20190427_191103.jpg);
+	{/*
+    	background: #c7b39b url(Ne1heLe.github.io/IMG_20190427_191103.jpg);*/
 	margin-top: 5px;
 	}
 h1	{
@@ -48,15 +48,15 @@ p.oblique {font-style:oblique;}
   border-radius: 0 3px 3px 0;
 }
 
-/* Position the "next button" to the right */
+/* Position the "next button" to the right 
 .next {
   right: -20;
   border-radius: 5px 0 0 5px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
+ On hover, add a black background color with a little bit see-through 
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
-}
+}*/
 
 
