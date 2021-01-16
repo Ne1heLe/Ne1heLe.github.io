@@ -6,12 +6,12 @@ html
 	margin-top: 5px;
 	}
 h1	{
-	font: 75px SinSum;
+	font: 500px SinSum;
 	color: none;
-	-webkit-text-stroke: 0.009em white;
+	-webkit-text-stroke: 9em white;
 	text-align: center;
 	
-	margin-bottom: 40px;
+	margin-bottom: 400px;
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
