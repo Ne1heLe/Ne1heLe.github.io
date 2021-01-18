@@ -2,16 +2,16 @@ type="text/css">
 {box-sizing:border-box}
 html
 	{
-    	background: #000 url(Ne1heLe.github.io/photos/5WWU.gif);
+    	background: url(Ne1heLe.github.io/photos/5WWU.gif);
 	margin-top: 5px;
 	}
 h1	{
-	font: 50px SinSum;
+	font: 100px SinSum;
 	color: none;
-	-webkit-text-stroke: 9em white;
+	-webkit-text-stroke: 10em black;
 	text-align: center;
 	
-	margin-bottom: 500px;
+	margin-bottom: 300px;
 	}
 p.small {line-height:80%;}
 p.big {line-height:200%;}	
