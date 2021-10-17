@@ -3,12 +3,12 @@ type="text/css">
 html
 	{
     	background: black;
-	margin-top: 10px;
+	margin-top: 20px;
 	}
 h1	{
-	font: 50px SinSum;
+	font: 25px SinSum;
 	color: black;
-	-webkit-text-stroke: 9em white;
+	-webkit-text-stroke: 8em white;
 	text-align: center;
 	
 	margin-bottom: 10px;
