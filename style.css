@@ -2,8 +2,8 @@ type="text/css">
 {box-sizing:border-box}
 html
 	{
-    	background-color: black;
-	margin-top: 5px;
+    	background: black;
+	margin-top: 10px;
 	}
 h1	{
 	font: 10px SinSum;
