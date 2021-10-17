@@ -2,11 +2,11 @@ type="text/css">
 {box-sizing:border-box}
 html
 	{
-    	backgroundcolor: black;
+    	background-color: black;
 	margin-top: 5px;
 	}
 h1	{
-	font: 5px SinSum;
+	font: 10px SinSum;
 	color: black;
 	-webkit-text-stroke: 9em white;
 	text-align: center;
